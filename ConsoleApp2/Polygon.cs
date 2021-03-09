@@ -39,7 +39,7 @@ namespace pyramid
             return 2 * r * Math.Sin(Math.PI / n);
         }
         public double RadiusInscribedCircle()
-        {
+        { 
             return PolygonSide() / (2 * Math.Tan(Math.PI / n));
         }
         public double GetAngleOfPolygon()
