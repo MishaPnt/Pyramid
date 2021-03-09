@@ -66,6 +66,6 @@ namespace многокутник
             Console.WriteLine(pyramid >= pyramid1); 
             Console.Write("кiлькiсть викликаних об'єктiв: ");
             Polygon.GetCountOfCreatedObjects();
-        }   
+        }         
     }
 }

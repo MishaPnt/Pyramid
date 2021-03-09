@@ -60,7 +60,7 @@ namespace pyramid
                         && obj1.y1 == obj2.y1
                         && obj1.r == obj2.r
                         && obj1.n == obj2.n);
-                //new comment for commitlholui
+        
         }
     }
 }
