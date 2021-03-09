@@ -18,7 +18,7 @@ namespace pyramid
             this.y1 = y1;
             this.r = r;
             this.n = n;
-            instances++;
+            instances++; 
         }
 
         public static void GetCountOfCreatedObjects()
