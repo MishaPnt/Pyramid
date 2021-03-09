@@ -30,7 +30,7 @@ namespace pyramid
         {
             return 2 * n * r * Math.Sin(Math.PI / n);
         }
-        public double Area()
+        public double Area() 
         {
             return n * Math.Pow(r, 2) / 2 * Math.Sin(2 * Math.PI / n);
         }
