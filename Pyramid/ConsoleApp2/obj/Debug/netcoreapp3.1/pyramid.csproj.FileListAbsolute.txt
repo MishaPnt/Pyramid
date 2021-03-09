@@ -1,0 +1,12 @@
+D:\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\pyramid.exe
+D:\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\pyramid.deps.json
+D:\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\pyramid.runtimeconfig.json
+D:\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\pyramid.runtimeconfig.dev.json
+D:\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\pyramid.dll
+D:\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\pyramid.pdb
+D:\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\pyramid.AssemblyInfoInputs.cache
+D:\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\pyramid.AssemblyInfo.cs
+D:\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\pyramid.csproj.CoreCompileInputs.cache
+D:\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\pyramid.dll
+D:\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\pyramid.pdb
+D:\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\pyramid.genruntimeconfig.cache
